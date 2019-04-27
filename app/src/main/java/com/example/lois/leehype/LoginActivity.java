@@ -11,6 +11,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         System.out.println("COMPLETE");
+        System.out.println("COMPLETE 2");
 
     }
 }
