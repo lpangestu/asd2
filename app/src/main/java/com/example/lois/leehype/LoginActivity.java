@@ -12,6 +12,7 @@ public class LoginActivity extends AppCompatActivity {
 
         System.out.println("COMPLETE");
         System.out.println("COMPLETE 2");
+        System.out.println("COMPLETE 3");
 
     }
 }
